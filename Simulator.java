@@ -6,7 +6,7 @@ import java.awt.Color;
 
 /**
  * This is a test to see if i am doing things right? :)
- * 
+ * This is the second test to see if the code can be pulled
  * 
  * A simple predator-prey simulator, based on a rectangular field
  * containing rabbits and foxes.
