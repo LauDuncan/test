@@ -5,6 +5,9 @@ import java.util.Iterator;
 import java.awt.Color;
 
 /**
+ * This is a test to see if i am doing things right? :)
+ * 
+ * 
  * A simple predator-prey simulator, based on a rectangular field
  * containing rabbits and foxes.
  * 
@@ -44,7 +47,6 @@ public class Simulator
     public Simulator()
     {
         this(DEFAULT_DEPTH, DEFAULT_WIDTH);
-        //test et==test teatsdasiudais uhgdiuasg hiudash diuash iduahs iudhaiuhasa
     }
     
     /**
@@ -73,7 +75,6 @@ public class Simulator
         view.setColor(Lion.class, Color.YELLOW);
         // Setup a valid starting point.
         reset();
-        
     }
     
     /**
